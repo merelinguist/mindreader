@@ -34,6 +34,8 @@ console.log(sentiment);
 
 ## Input & Ouput
 
+### Input
+
 `mindreader` takes any `string` input, for example:
 
 ```js
@@ -45,6 +47,8 @@ const sentiment = mindreader(
 
 ...
 ```
+
+### Output
 
 The full output looks like this:
 
