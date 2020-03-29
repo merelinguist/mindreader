@@ -41,7 +41,5 @@ export const mindreader = (phrase: string) => {
     negative: negative,
   };
 
-  console.log(result);
-
   return result;
 };
